@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+options="cd /root/dev && composer ${@}"
+docker run -v $(pwd):/root/dev -it --rm composer bash -c "$options"

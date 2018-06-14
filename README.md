@@ -1,4 +1,4 @@
-As a PHP developer you need to use `composer` every now and often. But what if you are using Docker for all dev related stuff and don't want to install `php` just because of Docker?
+As a PHP developer you'd want to use `composer` every now and then. But what if you are using Docker and don't want to pollute your host machine with `php`?!
 
 # Install
 ```
